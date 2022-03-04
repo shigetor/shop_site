@@ -36,3 +36,5 @@ server {
     access_log /var/log/nginx/om_access.log;
 }
 Настроить символическую ссылку для nginx
+Создать .end.local 
+DATABASE_URL="mysql://root:@localhost/shop?serverVersion=8.0&charset=utf8"
