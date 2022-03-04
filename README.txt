@@ -38,3 +38,6 @@ server {
 Настроить символическую ссылку для nginx
 Создать .end.local 
 DATABASE_URL="mysql://root:@localhost/shop?serverVersion=8.0&charset=utf8"
+Установить nodejs
+$npm install
+$sudo apt install nodejs npm 
