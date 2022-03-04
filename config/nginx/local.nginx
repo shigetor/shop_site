@@ -1,6 +1,6 @@
 server {
     server_name shop.my;
-    root /www/shopApp/public;
+    root /www/shop_site/shop_site/public;
 
     location / {
         # try to serve file directly, fallback to index.php
