@@ -1,0 +1,557 @@
+Script started on 2022-03-03 20:09:33+00:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="203" LINES="45"]
+/home/user/.zshrc:1: command not found: If
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                           ]2;user@user-VirtualBox:/www/shop_site/shop_site]1;..ite/shop_site[0m[27m[24m[J
+[38;5;135muser[39m at [38;5;166muser-VirtualBox[39m in [38;5;118m/www/shop_site/shop_site[39m ([38;5;81mmain[38;5;166m●[38;5;161m●[39m) 
+$ [K[?1h=[?2004hccomposer update[?1l>[?2004l
+]2;composer update]1;composer[32mLoading composer repositories with package information[39m
+[32mRestricting packages listed in "symfony/symfony" to "5.4.*"[39m
+[32mUpdating dependencies[39m
+Nothing to modify in lock file
+[32mInstalling dependencies from lock file (including require-dev)[39m
+Nothing to install, update or remove
+[32mGenerating optimized autoload files[39m
+[32m98 packages you are using are looking for funding.[39m
+[32mUse the `composer fund` command to find out more![39m
+
+Run [33mcomposer recipes[39m at any time to see the status of your Symfony recipes.
+
+Executing script cache:clear [32m[OK][39m
+Executing script assets:install public [32m[OK][39m
+
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                           ]2;user@user-VirtualBox:/www/shop_site/shop_site]1;..ite/shop_site[0m[27m[24m[J
+[38;5;135muser[39m at [38;5;166muser-VirtualBox[39m in [38;5;118m/www/shop_site/shop_site[39m ([38;5;81mmain[38;5;166m●[38;5;161m●[39m) 
+$ [K[?1h=[?2004hccd ..[?1l>[?2004l
+]2;cd ..]1;cd[1m[7m%[27m[1m[0m                                                                                                                                                                                                           ]2;user@user-VirtualBox:/www/shop_site]1;/www/shop_site[0m[27m[24m[J
+[38;5;135muser[39m at [38;5;166muser-VirtualBox[39m in [38;5;118m/www/shop_site[39m 
+$ [K[?1h=[?2004hccd ..[?1l>[?2004l
+]2;cd ..]1;cd[1m[7m%[27m[1m[0m                                                                                                                                                                                                           ]2;user@user-VirtualBox:/www]1;/www[0m[27m[24m[J
+[38;5;135muser[39m at [38;5;166muser-VirtualBox[39m in [38;5;118m/www[39m 
+$ [K[?1h=[?2004hccd ..[?1l>[?2004l
+]2;cd ..]1;cd[1m[7m%[27m[1m[0m                                                                                                                                                                                                           ]2;user@user-VirtualBox:/]1;/[0m[27m[24m[J
+[38;5;135muser[39m at [38;5;166muser-VirtualBox[39m in [38;5;118m/[39m 
+$ [K[?1h=[?2004heetc/hosts[?1l>[?2004l
+]2;etc/hosts]1;etc/hostszsh: permission denied: etc/hosts
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                           ]2;user@user-VirtualBox:/]1;/[0m[27m[24m[J
+[38;5;135muser[39m at [38;5;166muser-VirtualBox[39m in [38;5;118m/[39m 
+$ [K[?1h=[?2004hccd etc[?1l>[?2004l
+]2;cd etc]1;cd[1m[7m%[27m[1m[0m                                                                                                                                                                                                           ]2;user@user-VirtualBox:/etc]1;/etc[0m[27m[24m[J
+[38;5;135muser[39m at [38;5;166muser-VirtualBox[39m in [38;5;118m/etc[39m 
+$ [K[?1h=[?2004hlll[?1l>[?2004l
+]2;ls --color=tty -lh]1;lltotal 1,2M
+drwxr-xr-x  3 root root   4,0K feb  9  2021 [0m[01;34macpi[0m
+-rw-r--r--  1 root root   3,0K feb  9  2021 adduser.conf
+drwxr-xr-x  3 root root   4,0K feb  9  2021 [01;34malsa[0m
+drwxr-xr-x  2 root root   4,0K mar  3 13:04 [01;34malternatives[0m
+-rw-r--r--  1 root root    401 jul 16  2019 anacrontab
+drwxr-xr-x  3 root root   4,0K ene 26 13:09 [01;34mapache2[0m
+-rw-r--r--  1 root root    433 oct  1  2017 apg.conf
+drwxr-xr-x  5 root root   4,0K feb  9  2021 [01;34mapm[0m
+drwxr-xr-x  3 root root   4,0K feb  9  2021 [01;34mapparmor[0m
+drwxr-xr-x  7 root root   4,0K mar  2 12:56 [01;34mapparmor.d[0m
+drwxr-xr-x  4 root root   4,0K ene 31 11:34 [01;34mapport[0m
+-rw-r--r--  1 root root    769 ene 18  2020 appstream.conf
+drwxr-xr-x  7 root root   4,0K ene 22 20:04 [01;34mapt[0m
+drwxr-xr-x  3 root root   4,0K ene 31 11:27 [01;34mavahi[0m
+-rw-r--r--  1 root root   2,3K feb 25  2020 bash.bashrc
+-rw-r--r--  1 root root     45 ene 26  2020 bash_completion
+drwxr-xr-x  2 root root   4,0K ene 31 11:34 [01;34mbash_completion.d[0m
+-rw-r--r--  1 root root    367 abr 14  2020 bindresvport.blacklist
+drwxr-xr-x  2 root root   4,0K abr 22  2020 [01;34mbinfmt.d[0m
+drwxr-xr-x  2 root root   4,0K feb 21 12:35 [01;34mbluetooth[0m
+-rw-r-----  1 root root     33 feb  9  2021 brlapi.key
+drwxr-xr-x  7 root root   4,0K feb  9  2021 [01;34mbrltty[0m
+-rw-r--r--  1 root root    27K mar  3  2020 brltty.conf
+drwxr-xr-x  3 root root   4,0K feb  9  2021 [01;34mca-certificates[0m
+-rw-r--r--  1 root root   6,5K ene 31 11:27 ca-certificates.conf
+-rw-r--r--  1 root root   6,5K feb  9  2021 ca-certificates.conf.dpkg-old
+drwxr-xr-x  2 root root   4,0K feb  9  2021 [01;34mcalendar[0m
+drwxr-s---  2 root dip    4,0K feb  9  2021 [01;34mchatscripts[0m
+drwxr-xr-x  2 root root   4,0K ene 22 19:53 [01;34mconsole-setup[0m
+drwxr-xr-x  2 root root   4,0K feb  9  2021 [01;34mcracklib[0m
+drwxr-xr-x  2 root root   4,0K ene 26 13:09 [01;34mcron.d[0m
+drwxr-xr-x  2 root root   4,0K ene 31 11:34 [01;34mcron.daily[0m
+drwxr-xr-x  2 root root   4,0K feb  9  2021 [01;34mcron.hourly[0m
+drwxr-xr-x  2 root root   4,0K feb  9  2021 [01;34mcron.monthly[0m
+-rw-r--r--  1 root root   1,1K feb 13  2020 crontab
+drwxr-xr-x  2 root root   4,0K feb  9  2021 [01;34mcron.weekly[0m
+drwxr-xr-x  5 root lp     4,0K mar  3 19:45 [01;34mcups[0m
+drwxr-xr-x  2 root root   4,0K feb  9  2021 [01;34mcupshelpers[0m
+drwxr-xr-x  2 root root   4,0K ene 26 13:43 [01;34mdbconfig-common[0m
+drwxr-xr-x  4 root root   4,0K feb  9  2021 [01;34mdbus-1[0m
+drwxr-xr-x  4 root root   4,0K feb  9  2021 [01;34mdconf[0m
+-rw-r--r--  1 root root   2,9K ago  3  2019 debconf.conf
+-rw-r--r--  1 root root     13 dic  5  2019 debian_version
+drwxr-xr-x  3 root root   4,0K ene 31 11:35 [01;34mdefault[0m
+-rw-r--r--  1 root root    604 sep 15  2018 deluser.conf
+drwxr-xr-x  2 root root   4,0K feb  9  2021 [01;34mdepmod.d[0m
+drwxr-xr-x  4 root root   4,0K ene 31 11:36 [01;34mdhcp[0m
+drwxr-xr-x  2 root root   4,0K ene 22 19:58 [01;34mdictionaries-common[0m
+drwxr-xr-x  4 root root   4,0K feb 23 17:55 [01;34mdpkg[0m
+-rw-r--r--  1 root root    685 feb 14  2020 e2scrub.conf
+drwxr-xr-x  3 root root   4,0K feb  9  2021 [01;34memacs[0m
+-rw-r--r--  1 root root    106 feb  9  2021 environment
+drwxr-xr-x  2 root root   4,0K feb  9  2021 [01;34menvironment.d[0m
+-rw-r--r--  1 root root   1,8K dic 27  2019 ethertypes
+drwxr-xr-x  3 root root   4,0K feb 21 12:32 [01;34mfirefox[0m
+drwxr-xr-x  4 root root   4,0K feb  9  2021 [01;34mfonts[0m
+-rw-r--r--  1 root root     20 feb 10  2020 fprintd.conf
+-rw-rw-r--  1 root root    665 ene 22 19:45 fstab
+-rw-r--r--  1 root root    280 jun 20  2014 fuse.conf
+drwxr-xr-x  3 root root   4,0K feb  9  2021 [01;34mfwupd[0m
+-rw-r--r--  1 root root   2,6K feb  1  2020 gai.conf
+-rw-r--r--  1 root root   4,3K may 18  2020 gamemode.ini
+drwxr-xr-x  2 root root   4,0K feb  9  2021 [01;34mgdb[0m
+drwxr-xr-x  8 root root   4,0K ene 22 19:53 [01;34mgdm3[0m
+drwxr-xr-x  2 root root   4,0K feb  9  2021 [01;34mgeoclue[0m
+drwxr-xr-x  4 root root   4,0K feb  9  2021 [01;34mghostscript[0m
+drwxr-xr-x  3 root root   4,0K feb  9  2021 [01;34mglvnd[0m
+drwxr-xr-x  2 root root   4,0K feb  9  2021 [01;34mgnome[0m
+drwxr-xr-x  2 root root   4,0K feb  9  2021 [01;34mgroff[0m
+-rw-r--r--  1 root root   1,1K ene 26 16:00 group
+-rw-r--r--  1 root root   1,1K ene 26 13:39 group-
+drwxr-xr-x  2 root root   4,0K ene 22 20:01 [01;34mgrub.d[0m
+-rw-r-----  1 root shadow  890 ene 26 16:00 gshadow
+-rw-r-----  1 root shadow  886 ene 26 13:39 gshadow-
+drwxr-xr-x  3 root root   4,0K feb  9  2021 [01;34mgss[0m
+drwxr-xr-x  2 root root   4,0K feb  9  2021 [01;34mgtk-2.0[0m
+drwxr-xr-x  2 root root   4,0K feb  9  2021 [01;34mgtk-3.0[0m
+-rw-r--r--  1 root root   5,0K ago 21  2019 hdparm.conf
+-rw-r--r--  1 root root     92 dic  5  2019 host.conf
+-rw-r--r--  1 root root      4 feb  9  2021 hostid
+-rw-r--r--  1 root root     16 ene 22 19:51 hostname
+-rw-r--r--  1 root root    261 mar  3 15:11 hosts
+-rw-r--r--  1 root root    411 feb  9  2021 hosts.allow
+-rw-r--r--  1 root root    711 feb  9  2021 hosts.deny
+drwxr-xr-x  2 root root   4,0K feb  9  2021 [01;34mhp[0m
+drwxr-xr-x  3 root root   4,0K feb  9  2021 [01;34mifplugd[0m
+drwxr-xr-x  2 root root   4,0K feb 10 19:48 [01;34minit[0m
+drwxr-xr-x  2 root root   4,0K feb 21 12:47 [01;34minit.d[0m
+drwxr-xr-x  5 root root   4,0K feb  9  2021 [01;34minitramfs-tools[0m
+-rw-r--r--  1 root root   1,8K feb 25  2020 inputrc
+drwxr-xr-x  2 root root   4,0K feb  9  2021 [01;34minsserv.conf.d[0m
+drwxr-xr-x  4 root root   4,0K feb  9  2021 [01;34miproute2[0m
+-rw-r--r--  1 root root     26 ene 27  2021 issue
+-rw-r--r--  1 root root     19 ene 27  2021 issue.net
+drwxr-xr-x  7 root root   4,0K ene 22 20:44 [01;34mkernel[0m
+-rw-r--r--  1 root root    110 ene 22 19:56 kernel-img.conf
+-rw-r--r--  1 root root   1,3K dic  1  2017 kerneloops.conf
+drwxr-xr-x  2 root root   4,0K ene 31 11:26 [01;34mldap[0m
+-rw-r--r--  1 root root    67K mar  2 12:57 ld.so.cache
+-rw-r--r--  1 root root     34 abr 14  2020 ld.so.conf
+drwxr-xr-x  2 root root   4,0K feb 23 17:55 [01;34mld.so.conf.d[0m
+-rw-r--r--  1 root root    267 dic  5  2019 legal
+-rw-r--r--  1 root root     27 ene 18  2018 libao.conf
+-rw-r--r--  1 root root    191 feb 18  2020 libaudit.conf
+drwxr-xr-x  3 root root   4,0K feb  9  2021 [01;34mlibblockdev[0m
+drwxr-xr-x  2 root root   4,0K feb  9  2021 [01;34mlibnl-3[0m
+drwxr-xr-x  2 root root   4,0K jun 25  2019 [01;34mlibpaper.d[0m
+drwxr-xr-x  2 root root   4,0K ene 22 19:54 [01;34mlibreoffice[0m
+drwxr-xr-x  4 root root   4,0K ene 26 13:43 [01;34mlighttpd[0m
+-rw-r--r--  1 root root   3,0K abr 14  2020 locale.alias
+-rw-r--r--  1 root root   9,3K ene 22 19:51 locale.gen
+lrwxrwxrwx  1 root root     35 ene 26 12:40 [01;36mlocaltime[0m -> /usr/share/zoneinfo/Atlantic/Canary
+drwxr-xr-x  5 root root   4,0K ene 26 13:39 [01;34mlogcheck[0m
+-rw-r--r--  1 root root    11K feb  7  2020 login.defs
+-rw-r--r--  1 root root    533 ene 21  2019 logrotate.conf
+drwxr-xr-x  2 root root   4,0K feb 10 19:48 [01;34mlogrotate.d[0m
+-rw-r--r--  1 root root    104 ene 27  2021 lsb-release
+-rw-r--r--  1 root root    15K feb  1  2019 ltrace.conf
+-r--r--r--  1 root root     33 ene 22 20:10 machine-id
+-rw-r--r--  1 root root    111 ene 16  2020 magic
+-rw-r--r--  1 root root    111 ene 16  2020 magic.mime
+-rw-r--r--  1 root root    42K mar  2 12:57 mailcap
+-rw-r--r--  1 root root    449 oct 19  2019 mailcap.order
+-rw-r--r--  1 root root   5,1K feb 25  2020 manpath.config
+-rw-r--r--  1 root root    288 feb 26  2020 mecabrc
+-rw-r--r--  1 root root    24K oct 19  2019 mime.types
+-rw-r--r--  1 root root    808 feb 14  2020 mke2fs.conf
+drwxr-xr-x  2 root root   4,0K ene 26 12:41 [01;34mmodprobe.d[0m
+-rw-r--r--  1 root root    195 feb  9  2021 modules
+drwxr-xr-x  2 root root   4,0K ene 26 12:21 [01;34mmodules-load.d[0m
+lrwxrwxrwx  1 root root     19 ene 22 19:54 [01;36mmtab[0m -> ../proc/self/mounts
+-rw-r--r--  1 root root    624 mar 22  2020 mtools.conf
+drwxr-xr-x  4 root root   4,0K feb 10 19:48 [01;34mmysql[0m
+-rw-r--r--  1 root root   9,9K feb  7  2020 nanorc
+drwxr-xr-x  2 root root   4,0K feb  9  2021 [01;34mnetplan[0m
+drwxr-xr-x  6 root root   4,0K feb  9  2021 [01;34mnetwork[0m
+drwxr-xr-x  8 root root   4,0K feb  9  2021 [01;34mnetworkd-dispatcher[0m
+drwxr-xr-x  7 root root   4,0K feb  9  2021 [01;34mNetworkManager[0m
+-rw-r--r--  1 root root     91 dic  5  2019 networks
+drwxr-xr-x  2 root root   4,0K feb  9  2021 [01;34mnewt[0m
+drwxr-xr-x  8 root root   4,0K ene 26 14:41 [01;34mnginx[0m
+-rw-r--r--  1 root root    542 feb  9  2021 nsswitch.conf
+drwxr-xr-x  4 root root   4,0K ene 31 11:35 [01;34mopenvpn[0m
+drwxr-xr-x  2 root root   4,0K feb  9  2021 [01;34mopt[0m
+lrwxrwxrwx  1 root root     21 ene 22 19:45 [01;36mos-release[0m -> ../usr/lib/os-release
+drwxr-xr-x  2 root root   4,0K feb  9  2021 [01;34mPackageKit[0m
+-rw-r--r--  1 root root    552 dic 17  2019 pam.conf
+drwxr-xr-x  2 root root   4,0K feb 21 12:42 [01;34mpam.d[0m
+-rw-rw-r--  1 root root      3 ene 22 19:54 papersize
+-rw-r--r--  1 root root   2,8K feb  7 23:06 passwd
+drwxr-xr-x  2 root root   4,0K feb  9  2021 [01;34mpcmcia[0m
+drwxr-xr-x  3 root root   4,0K feb  9  2021 [01;34mperl[0m
+drwxr-xr-x  3 root root   4,0K ene 26 13:09 [01;34mphp[0m
+drwxr-xr-x  3 root root   4,0K feb 23 16:17 [01;34mphpmyadmin[0m
+drwxr-xr-x  4 root root   4,0K feb  9  2021 [01;34mpki[0m
+drwxr-xr-x  3 root root   4,0K feb  9  2021 [01;34mpm[0m
+-rw-r--r--  1 root root   7,5K feb  9  2021 pnm2ppa.conf
+drwxr-xr-x  4 root root   4,0K feb  9  2021 [01;34mpolkit-1[0m
+-rw-rw-r--  1 root root    350 ene 22 19:54 popularity-contest.conf
+drwxr-xr-x  7 root dip    4,0K feb  9  2021 [01;34mppp[0m
+-rw-r--r--  1 root root    581 dic  5  2019 profile
+drwxr-xr-x  2 root root   4,0K mar  2 12:56 [01;34mprofile.d[0m
+-rw-r--r--  1 root root   2,9K abr  1  2013 protocols
+drwxr-xr-x  3 root root   4,0K feb  9  2021 [01;34mpulse[0m
+drwxr-xr-x  2 root root   4,0K feb 23 17:53 [01;34mpython2.7[0m
+drwxr-xr-x  2 root root   4,0K feb  9  2021 [01;34mpython3[0m
+drwxr-xr-x  2 root root   4,0K ene 26 12:22 [01;34mpython3.8[0m
+drwxr-xr-x  2 root root   4,0K ene 26 13:40 [01;34mrc0.d[0m
+drwxr-xr-x  2 root root   4,0K ene 26 13:40 [01;34mrc1.d[0m
+drwxr-xr-x  2 root root   4,0K ene 26 13:40 [01;34mrc2.d[0m
+drwxr-xr-x  2 root root   4,0K ene 26 13:40 [01;34mrc3.d[0m
+drwxr-xr-x  2 root root   4,0K ene 26 13:40 [01;34mrc4.d[0m
+drwxr-xr-x  2 root root   4,0K ene 26 13:40 [01;34mrc5.d[0m
+drwxr-xr-x  2 root root   4,0K ene 26 13:40 [01;34mrc6.d[0m
+drwxr-xr-x  2 root root   4,0K ene 22 19:59 [01;34mrcS.d[0m
+lrwxrwxrwx  1 root root     39 ene 22 19:51 [01;36mresolv.conf[0m -> ../run/systemd/resolve/stub-resolv.conf
+lrwxrwxrwx  1 root root     13 ene 22 19:45 [01;36mrmt[0m -> [01;32m/usr/sbin/rmt[0m
+-rw-r--r--  1 root root    887 abr  1  2013 rpc
+-rw-r--r--  1 root root   1,4K feb 11  2020 rsyslog.conf
+drwxr-xr-x  2 root root   4,0K feb  9  2021 [01;34mrsyslog.d[0m
+-rw-r--r--  1 root root   5,1K mar 11  2020 rygel.conf
+drwxr-xr-x  3 root root   4,0K feb  9  2021 [01;34msane.d[0m
+drwxr-xr-x  4 root root   4,0K feb  9  2021 [01;34msecurity[0m
+drwxr-xr-x  2 root root   4,0K feb  9  2021 [01;34mselinux[0m
+-rw-r--r--  1 root root    11K nov  6  2019 sensors3.conf
+drwxr-xr-x  2 root root   4,0K feb  9  2021 [01;34msensors.d[0m
+-rw-r--r--  1 root root    15K feb 16  2020 services
+drwxr-xr-x  3 root root   4,0K feb  9  2021 [01;34msgml[0m
+-rw-r-----  1 root shadow 1,5K ene 26 13:39 shadow
+-rw-r-----  1 root shadow 1,5K ene 26 13:39 shadow-
+-rw-r--r--  1 root root    138 ene 26 12:51 shells
+drwxr-xr-x  2 root root   4,0K feb  9  2021 [01;34mskel[0m
+drwxr-xr-x  2 root root   4,0K feb  9  2021 [01;34msnmp[0m
+drwxr-xr-x  4 root root   4,0K feb  9  2021 [01;34mspeech-dispatcher[0m
+drwxr-xr-x  3 root root   4,0K feb 20 22:04 [01;34mssh[0m
+drwxr-xr-x  4 root root   4,0K ene 31 11:33 [01;34mssl[0m
+-rw-r--r--  1 root root     18 ene 22 19:53 subgid
+-rw-r--r--  1 root root      0 feb  9  2021 subgid-
+-rw-r--r--  1 root root     18 ene 22 19:53 subuid
+-rw-r--r--  1 root root      0 feb  9  2021 subuid-
+-r--r-----  1 root root    755 feb  3  2020 sudoers
+drwxr-xr-x  2 root root   4,0K ene 22 19:59 [01;34msudoers.d[0m
+-rw-r--r--  1 root root   2,3K feb 13  2020 sysctl.conf
+drwxr-xr-x  2 root root   4,0K ene 26 12:21 [01;34msysctl.d[0m
+drwxr-xr-x  5 root root   4,0K ene 26 12:21 [01;34msystemd[0m
+drwxr-xr-x  2 root root   4,0K feb  9  2021 [01;34mterminfo[0m
+drwxr-xr-x  2 root root   4,0K feb  9  2021 [01;34mthermald[0m
+drwxr-xr-x  2 root root   4,0K ene 31 11:17 [01;34mthunderbird[0m
+-rw-r--r--  1 root root     16 ene 26 12:40 timezone
+drwxr-xr-x  2 root root   4,0K abr 22  2020 [01;34mtmpfiles.d[0m
+drwxr-xr-x  2 root root   4,0K feb  9  2021 [01;34mubuntu-advantage[0m
+-rw-r--r--  1 root root   1,3K dic 14  2018 ucf.conf
+drwxr-xr-x  4 root root   4,0K ene 22 20:01 [01;34mudev[0m
+drwxr-xr-x  2 root root   4,0K feb  9  2021 [01;34mudisks2[0m
+drwxr-xr-x  3 root root   4,0K feb  9  2021 [01;34mufw[0m
+drwxr-xr-x  3 root root   4,0K feb  9  2021 [01;34mupdate-manager[0m
+drwxr-xr-x  2 root root   4,0K feb  9  2021 [01;34mupdate-motd.d[0m
+drwxr-xr-x  2 root root   4,0K ene 20  2021 [01;34mupdate-notifier[0m
+drwxr-xr-x  2 root root   4,0K feb  9  2021 [01;34mUPower[0m
+-rw-r--r--  1 root root   1,5K feb 10  2020 usb_modeswitch.conf
+drwxr-xr-x  2 root root   4,0K feb 24  2020 [01;34musb_modeswitch.d[0m
+drwxr-xr-x  2 root root   4,0K feb 10 19:45 [01;34mvim[0m
+drwxr-xr-x  4 root root   4,0K ene 22 20:02 [01;34mvmware-tools[0m
+lrwxrwxrwx  1 root root     23 ene 22 19:45 [01;36mvtrgb[0m -> /etc/alternatives/vtrgb
+drwxr-xr-x  5 root root   4,0K feb  9  2021 [01;34mvulkan[0m
+-rw-r--r--  1 root root   4,9K jul 24  2019 wgetrc
+drwxr-xr-x  2 root root   4,0K ene 31 11:25 [01;34mwpa_supplicant[0m
+drwxr-xr-x 11 root root   4,0K feb  9  2021 [01;34mX11[0m
+-rw-r--r--  1 root root    642 sep 24  2019 xattr.conf
+drwxr-xr-x  6 root root   4,0K feb  9  2021 [01;34mxdg[0m
+drwxr-xr-x  2 root root   4,0K feb  9  2021 [01;34mxml[0m
+drwxr-xr-x  2 root root   4,0K ene 26 12:51 [01;34mzsh[0m
+-rw-r--r--  1 root root    477 oct  7  2019 zsh_command_not_found
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                           ]2;user@user-VirtualBox:/etc]1;/etc[0m[27m[24m[J
+[38;5;135muser[39m at [38;5;166muser-VirtualBox[39m in [38;5;118m/etc[39m 
+$ [K[?1h=[?2004hccat hosts[?1l>[?2004l
+]2;cat hosts]1;cat127.0.0.1	localhost
+127.0.1.1	phpdev nginx.my pma.my dev01.my im.my shop.my
+
+
+# The following lines are desirable for IPv6 capable hosts
+::1     ip6-localhost ip6-loopback
+fe00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                           ]2;user@user-VirtualBox:/etc]1;/etc[0m[27m[24m[J
+[38;5;135muser[39m at [38;5;166muser-VirtualBox[39m in [38;5;118m/etc[39m 
+$ [K[?1h=[?2004hssudo nano lo  hosts[?1l>[?2004l
+]2;sudo nano hosts]1;nano[sudo] password for user: 
+[?2004h[?1049h[22;0;0t[1;45r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[43;95H(B[0;7m[ Reading... ](B[m[43;94H(B[0;7m[ Read 10 lines ](B[m[H(B[0;7m  GNU nano 4.8                                                                                       hosts                                                                                                 [1;202H(B[m[44d(B[0;7m^G(B[m Get Help     (B[0;7m^O(B[m Write Out    (B[0;7m^W(B[m Where Is     (B[0;7m^K(B[m Cut Text     (B[0;7m^J(B[m Justify[81G(B[0;7m^C(B[m Cur Pos[97G(B[0;7mM-U(B[m Undo[44;113H(B[0;7mM-A(B[m Mark Text   (B[0;7mM-](B[m To Bracket  (B[0;7mM-Q(B[m Previous    (B[0;7m^B(B[m Back[44;177H(B[0;7m^◀(B[m Prev Word[45d(B[0;7m^X(B[m Exit[45;17H(B[0;7m^R(B[m Read File    (B[0;7m^\(B[m Replace[49G(B[0;7m^U(B[m Paste Text   (B[0;7m^T(B[m To Spell     (B[0;7m^_(B[m Go To Line   (B[0;7mM-E(B[m Redo[45;113H(B[0;7mM-6(B[m Copy Text   (B[0;7m^Q(B[m Where Was    (B[0;7mM-W(B[m Next[45;161H(B[0;7m^F(B[m Forward[177G(B[0;7m^▶(B[m Next Word[43d[2d[39;49m(B[m127.0.0.1[17Glocalhost[3d127.0.1.1[17Gphpdev nginx.my pma.my dev01.my im.my shop.my[6d[36m# The following lines are desirable for IPv6 capable hosts[7d[39m(B[m::1     ip6-localhost ip6-loopback[8dfe00::0 ip6-localnet[9dff00::0 ip6-mcastprefix[10dff02::1 ip6-allnodes[11dff02::2 ip6-allrouters[2d[?12l[?25h[?25l[3d[?12l[?25h[?25l[4d[?12l[?25h[?25l[A[?12l[?25h[?25l1[?12l[?25h[?25l2[?12l[?25h[?25l7[?12l[?25h[?25l.[?12l[?25h[?25l0[?12l[?25h[?25l.[?12l[?25h[?25l[1;194H(B[0;7mModified(B[m[3;7H01.1[?12l[?25h[?25l.1 [?12l[?25h[?25l[43d(B[0;7mSave modified buffer?                                                                                                                                                                                      [44;1H Y(B[m Yes[K[45d(B[0;7m N(B[m No  [45;18H(B[0;7mC(B[m Cancel[K[43;23H[?12l[?25h[?25l[44d(B[0;7m^G(B[m Get Help[44;51H(B[0;7mM-D(B[m DOS Format[44;101H(B[0;7mM-A(B[m Append[44;151H(B[0;7mM-B(B[m Backup File[45d(B[0;7m^C(B[m Cancel[17G         [45;51H(B[0;7mM-M(B[m Mac Format[45;101H(B[0;7mM-P(B[m Prepend[45;151H(B[0;7m^T(B[m To Files[43d(B[0;7mFile Name to Write: hosts(B[m[43;26H[?12l[?25h[?25l[43;94H[1K (B[0;7m[ Writing... ](B[m[K[1;194H(B[0;7m        (B[m[43;93H(B[0;7m[ Wrote 10 lines ](B[m[J[45d[?12l[?25h[45;1H[?1049l[23;0;0t[?1l>[?2004l[1m[7m%[27m[1m[0m                                                                                                                                                                                                           ]2;user@user-VirtualBox:/etc]1;/etc[0m[27m[24m[J
+[38;5;135muser[39m at [38;5;166muser-VirtualBox[39m in [38;5;118m/etc[39m 
+$ [K[?1h=[?2004hssudo service nginx restart[?1l>[?2004l
+]2;sudo service nginx restart]1;service[1m[7m%[27m[1m[0m                                                                                                                                                                                                           ]2;user@user-VirtualBox:/etc]1;/etc[0m[27m[24m[J
+[38;5;135muser[39m at [38;5;166muser-VirtualBox[39m in [38;5;118m/etc[39m 
+$ [K[?1h=[?2004hccd sites- _enabled[?1l>[?2004l
+]2;cd sites_enabled]1;cdcd: no such file or directory: sites_enabled
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                           ]2;user@user-VirtualBox:/etc]1;/etc[0m[27m[24m[J
+[38;5;135muser[39m at [38;5;166muser-VirtualBox[39m in [38;5;118m/etc[39m 
+$ [K[?1h=[?2004hccd sited s-enabled[?1l>[?2004l
+]2;cd sites-enabled]1;cdcd: no such file or directory: sites-enabled
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                           ]2;user@user-VirtualBox:/etc]1;/etc[0m[27m[24m[J
+[38;5;135muser[39m at [38;5;166muser-VirtualBox[39m in [38;5;118m/etc[39m 
+$ [K[?1h=[?2004hlll[?1l>[?2004l
+]2;ls --color=tty -lh]1;lltotal 1,2M
+drwxr-xr-x  3 root root   4,0K feb  9  2021 [0m[01;34macpi[0m
+-rw-r--r--  1 root root   3,0K feb  9  2021 adduser.conf
+drwxr-xr-x  3 root root   4,0K feb  9  2021 [01;34malsa[0m
+drwxr-xr-x  2 root root   4,0K mar  3 13:04 [01;34malternatives[0m
+-rw-r--r--  1 root root    401 jul 16  2019 anacrontab
+drwxr-xr-x  3 root root   4,0K ene 26 13:09 [01;34mapache2[0m
+-rw-r--r--  1 root root    433 oct  1  2017 apg.conf
+drwxr-xr-x  5 root root   4,0K feb  9  2021 [01;34mapm[0m
+drwxr-xr-x  3 root root   4,0K feb  9  2021 [01;34mapparmor[0m
+drwxr-xr-x  7 root root   4,0K mar  2 12:56 [01;34mapparmor.d[0m
+drwxr-xr-x  4 root root   4,0K ene 31 11:34 [01;34mapport[0m
+-rw-r--r--  1 root root    769 ene 18  2020 appstream.conf
+drwxr-xr-x  7 root root   4,0K ene 22 20:04 [01;34mapt[0m
+drwxr-xr-x  3 root root   4,0K ene 31 11:27 [01;34mavahi[0m
+-rw-r--r--  1 root root   2,3K feb 25  2020 bash.bashrc
+-rw-r--r--  1 root root     45 ene 26  2020 bash_completion
+drwxr-xr-x  2 root root   4,0K ene 31 11:34 [01;34mbash_completion.d[0m
+-rw-r--r--  1 root root    367 abr 14  2020 bindresvport.blacklist
+drwxr-xr-x  2 root root   4,0K abr 22  2020 [01;34mbinfmt.d[0m
+drwxr-xr-x  2 root root   4,0K feb 21 12:35 [01;34mbluetooth[0m
+-rw-r-----  1 root root     33 feb  9  2021 brlapi.key
+drwxr-xr-x  7 root root   4,0K feb  9  2021 [01;34mbrltty[0m
+-rw-r--r--  1 root root    27K mar  3  2020 brltty.conf
+drwxr-xr-x  3 root root   4,0K feb  9  2021 [01;34mca-certificates[0m
+-rw-r--r--  1 root root   6,5K ene 31 11:27 ca-certificates.conf
+-rw-r--r--  1 root root   6,5K feb  9  2021 ca-certificates.conf.dpkg-old
+drwxr-xr-x  2 root root   4,0K feb  9  2021 [01;34mcalendar[0m
+drwxr-s---  2 root dip    4,0K feb  9  2021 [01;34mchatscripts[0m
+drwxr-xr-x  2 root root   4,0K ene 22 19:53 [01;34mconsole-setup[0m
+drwxr-xr-x  2 root root   4,0K feb  9  2021 [01;34mcracklib[0m
+drwxr-xr-x  2 root root   4,0K ene 26 13:09 [01;34mcron.d[0m
+drwxr-xr-x  2 root root   4,0K ene 31 11:34 [01;34mcron.daily[0m
+drwxr-xr-x  2 root root   4,0K feb  9  2021 [01;34mcron.hourly[0m
+drwxr-xr-x  2 root root   4,0K feb  9  2021 [01;34mcron.monthly[0m
+-rw-r--r--  1 root root   1,1K feb 13  2020 crontab
+drwxr-xr-x  2 root root   4,0K feb  9  2021 [01;34mcron.weekly[0m
+drwxr-xr-x  5 root lp     4,0K mar  3 19:45 [01;34mcups[0m
+drwxr-xr-x  2 root root   4,0K feb  9  2021 [01;34mcupshelpers[0m
+drwxr-xr-x  2 root root   4,0K ene 26 13:43 [01;34mdbconfig-common[0m
+drwxr-xr-x  4 root root   4,0K feb  9  2021 [01;34mdbus-1[0m
+drwxr-xr-x  4 root root   4,0K feb  9  2021 [01;34mdconf[0m
+-rw-r--r--  1 root root   2,9K ago  3  2019 debconf.conf
+-rw-r--r--  1 root root     13 dic  5  2019 debian_version
+drwxr-xr-x  3 root root   4,0K ene 31 11:35 [01;34mdefault[0m
+-rw-r--r--  1 root root    604 sep 15  2018 deluser.conf
+drwxr-xr-x  2 root root   4,0K feb  9  2021 [01;34mdepmod.d[0m
+drwxr-xr-x  4 root root   4,0K ene 31 11:36 [01;34mdhcp[0m
+drwxr-xr-x  2 root root   4,0K ene 22 19:58 [01;34mdictionaries-common[0m
+drwxr-xr-x  4 root root   4,0K feb 23 17:55 [01;34mdpkg[0m
+-rw-r--r--  1 root root    685 feb 14  2020 e2scrub.conf
+drwxr-xr-x  3 root root   4,0K feb  9  2021 [01;34memacs[0m
+-rw-r--r--  1 root root    106 feb  9  2021 environment
+drwxr-xr-x  2 root root   4,0K feb  9  2021 [01;34menvironment.d[0m
+-rw-r--r--  1 root root   1,8K dic 27  2019 ethertypes
+drwxr-xr-x  3 root root   4,0K feb 21 12:32 [01;34mfirefox[0m
+drwxr-xr-x  4 root root   4,0K feb  9  2021 [01;34mfonts[0m
+-rw-r--r--  1 root root     20 feb 10  2020 fprintd.conf
+-rw-rw-r--  1 root root    665 ene 22 19:45 fstab
+-rw-r--r--  1 root root    280 jun 20  2014 fuse.conf
+drwxr-xr-x  3 root root   4,0K feb  9  2021 [01;34mfwupd[0m
+-rw-r--r--  1 root root   2,6K feb  1  2020 gai.conf
+-rw-r--r--  1 root root   4,3K may 18  2020 gamemode.ini
+drwxr-xr-x  2 root root   4,0K feb  9  2021 [01;34mgdb[0m
+drwxr-xr-x  8 root root   4,0K ene 22 19:53 [01;34mgdm3[0m
+drwxr-xr-x  2 root root   4,0K feb  9  2021 [01;34mgeoclue[0m
+drwxr-xr-x  4 root root   4,0K feb  9  2021 [01;34mghostscript[0m
+drwxr-xr-x  3 root root   4,0K feb  9  2021 [01;34mglvnd[0m
+drwxr-xr-x  2 root root   4,0K feb  9  2021 [01;34mgnome[0m
+drwxr-xr-x  2 root root   4,0K feb  9  2021 [01;34mgroff[0m
+-rw-r--r--  1 root root   1,1K ene 26 16:00 group
+-rw-r--r--  1 root root   1,1K ene 26 13:39 group-
+drwxr-xr-x  2 root root   4,0K ene 22 20:01 [01;34mgrub.d[0m
+-rw-r-----  1 root shadow  890 ene 26 16:00 gshadow
+-rw-r-----  1 root shadow  886 ene 26 13:39 gshadow-
+drwxr-xr-x  3 root root   4,0K feb  9  2021 [01;34mgss[0m
+drwxr-xr-x  2 root root   4,0K feb  9  2021 [01;34mgtk-2.0[0m
+drwxr-xr-x  2 root root   4,0K feb  9  2021 [01;34mgtk-3.0[0m
+-rw-r--r--  1 root root   5,0K ago 21  2019 hdparm.conf
+-rw-r--r--  1 root root     92 dic  5  2019 host.conf
+-rw-r--r--  1 root root      4 feb  9  2021 hostid
+-rw-r--r--  1 root root     16 ene 22 19:51 hostname
+-rw-r--r--  1 root root    261 mar  3 20:15 hosts
+-rw-r--r--  1 root root    411 feb  9  2021 hosts.allow
+-rw-r--r--  1 root root    711 feb  9  2021 hosts.deny
+drwxr-xr-x  2 root root   4,0K feb  9  2021 [01;34mhp[0m
+drwxr-xr-x  3 root root   4,0K feb  9  2021 [01;34mifplugd[0m
+drwxr-xr-x  2 root root   4,0K feb 10 19:48 [01;34minit[0m
+drwxr-xr-x  2 root root   4,0K feb 21 12:47 [01;34minit.d[0m
+drwxr-xr-x  5 root root   4,0K feb  9  2021 [01;34minitramfs-tools[0m
+-rw-r--r--  1 root root   1,8K feb 25  2020 inputrc
+drwxr-xr-x  2 root root   4,0K feb  9  2021 [01;34minsserv.conf.d[0m
+drwxr-xr-x  4 root root   4,0K feb  9  2021 [01;34miproute2[0m
+-rw-r--r--  1 root root     26 ene 27  2021 issue
+-rw-r--r--  1 root root     19 ene 27  2021 issue.net
+drwxr-xr-x  7 root root   4,0K ene 22 20:44 [01;34mkernel[0m
+-rw-r--r--  1 root root    110 ene 22 19:56 kernel-img.conf
+-rw-r--r--  1 root root   1,3K dic  1  2017 kerneloops.conf
+drwxr-xr-x  2 root root   4,0K ene 31 11:26 [01;34mldap[0m
+-rw-r--r--  1 root root    67K mar  2 12:57 ld.so.cache
+-rw-r--r--  1 root root     34 abr 14  2020 ld.so.conf
+drwxr-xr-x  2 root root   4,0K feb 23 17:55 [01;34mld.so.conf.d[0m
+-rw-r--r--  1 root root    267 dic  5  2019 legal
+-rw-r--r--  1 root root     27 ene 18  2018 libao.conf
+-rw-r--r--  1 root root    191 feb 18  2020 libaudit.conf
+drwxr-xr-x  3 root root   4,0K feb  9  2021 [01;34mlibblockdev[0m
+drwxr-xr-x  2 root root   4,0K feb  9  2021 [01;34mlibnl-3[0m
+drwxr-xr-x  2 root root   4,0K jun 25  2019 [01;34mlibpaper.d[0m
+drwxr-xr-x  2 root root   4,0K ene 22 19:54 [01;34mlibreoffice[0m
+drwxr-xr-x  4 root root   4,0K ene 26 13:43 [01;34mlighttpd[0m
+-rw-r--r--  1 root root   3,0K abr 14  2020 locale.alias
+-rw-r--r--  1 root root   9,3K ene 22 19:51 locale.gen
+lrwxrwxrwx  1 root root     35 ene 26 12:40 [01;36mlocaltime[0m -> /usr/share/zoneinfo/Atlantic/Canary
+drwxr-xr-x  5 root root   4,0K ene 26 13:39 [01;34mlogcheck[0m
+-rw-r--r--  1 root root    11K feb  7  2020 login.defs
+-rw-r--r--  1 root root    533 ene 21  2019 logrotate.conf
+drwxr-xr-x  2 root root   4,0K feb 10 19:48 [01;34mlogrotate.d[0m
+-rw-r--r--  1 root root    104 ene 27  2021 lsb-release
+-rw-r--r--  1 root root    15K feb  1  2019 ltrace.conf
+-r--r--r--  1 root root     33 ene 22 20:10 machine-id
+-rw-r--r--  1 root root    111 ene 16  2020 magic
+-rw-r--r--  1 root root    111 ene 16  2020 magic.mime
+-rw-r--r--  1 root root    42K mar  2 12:57 mailcap
+-rw-r--r--  1 root root    449 oct 19  2019 mailcap.order
+-rw-r--r--  1 root root   5,1K feb 25  2020 manpath.config
+-rw-r--r--  1 root root    288 feb 26  2020 mecabrc
+-rw-r--r--  1 root root    24K oct 19  2019 mime.types
+-rw-r--r--  1 root root    808 feb 14  2020 mke2fs.conf
+drwxr-xr-x  2 root root   4,0K ene 26 12:41 [01;34mmodprobe.d[0m
+-rw-r--r--  1 root root    195 feb  9  2021 modules
+drwxr-xr-x  2 root root   4,0K ene 26 12:21 [01;34mmodules-load.d[0m
+lrwxrwxrwx  1 root root     19 ene 22 19:54 [01;36mmtab[0m -> ../proc/self/mounts
+-rw-r--r--  1 root root    624 mar 22  2020 mtools.conf
+drwxr-xr-x  4 root root   4,0K feb 10 19:48 [01;34mmysql[0m
+-rw-r--r--  1 root root   9,9K feb  7  2020 nanorc
+drwxr-xr-x  2 root root   4,0K feb  9  2021 [01;34mnetplan[0m
+drwxr-xr-x  6 root root   4,0K feb  9  2021 [01;34mnetwork[0m
+drwxr-xr-x  8 root root   4,0K feb  9  2021 [01;34mnetworkd-dispatcher[0m
+drwxr-xr-x  7 root root   4,0K feb  9  2021 [01;34mNetworkManager[0m
+-rw-r--r--  1 root root     91 dic  5  2019 networks
+drwxr-xr-x  2 root root   4,0K feb  9  2021 [01;34mnewt[0m
+drwxr-xr-x  8 root root   4,0K ene 26 14:41 [01;34mnginx[0m
+-rw-r--r--  1 root root    542 feb  9  2021 nsswitch.conf
+drwxr-xr-x  4 root root   4,0K ene 31 11:35 [01;34mopenvpn[0m
+drwxr-xr-x  2 root root   4,0K feb  9  2021 [01;34mopt[0m
+lrwxrwxrwx  1 root root     21 ene 22 19:45 [01;36mos-release[0m -> ../usr/lib/os-release
+drwxr-xr-x  2 root root   4,0K feb  9  2021 [01;34mPackageKit[0m
+-rw-r--r--  1 root root    552 dic 17  2019 pam.conf
+drwxr-xr-x  2 root root   4,0K feb 21 12:42 [01;34mpam.d[0m
+-rw-rw-r--  1 root root      3 ene 22 19:54 papersize
+-rw-r--r--  1 root root   2,8K feb  7 23:06 passwd
+drwxr-xr-x  2 root root   4,0K feb  9  2021 [01;34mpcmcia[0m
+drwxr-xr-x  3 root root   4,0K feb  9  2021 [01;34mperl[0m
+drwxr-xr-x  3 root root   4,0K ene 26 13:09 [01;34mphp[0m
+drwxr-xr-x  3 root root   4,0K feb 23 16:17 [01;34mphpmyadmin[0m
+drwxr-xr-x  4 root root   4,0K feb  9  2021 [01;34mpki[0m
+drwxr-xr-x  3 root root   4,0K feb  9  2021 [01;34mpm[0m
+-rw-r--r--  1 root root   7,5K feb  9  2021 pnm2ppa.conf
+drwxr-xr-x  4 root root   4,0K feb  9  2021 [01;34mpolkit-1[0m
+-rw-rw-r--  1 root root    350 ene 22 19:54 popularity-contest.conf
+drwxr-xr-x  7 root dip    4,0K feb  9  2021 [01;34mppp[0m
+-rw-r--r--  1 root root    581 dic  5  2019 profile
+drwxr-xr-x  2 root root   4,0K mar  2 12:56 [01;34mprofile.d[0m
+-rw-r--r--  1 root root   2,9K abr  1  2013 protocols
+drwxr-xr-x  3 root root   4,0K feb  9  2021 [01;34mpulse[0m
+drwxr-xr-x  2 root root   4,0K feb 23 17:53 [01;34mpython2.7[0m
+drwxr-xr-x  2 root root   4,0K feb  9  2021 [01;34mpython3[0m
+drwxr-xr-x  2 root root   4,0K ene 26 12:22 [01;34mpython3.8[0m
+drwxr-xr-x  2 root root   4,0K ene 26 13:40 [01;34mrc0.d[0m
+drwxr-xr-x  2 root root   4,0K ene 26 13:40 [01;34mrc1.d[0m
+drwxr-xr-x  2 root root   4,0K ene 26 13:40 [01;34mrc2.d[0m
+drwxr-xr-x  2 root root   4,0K ene 26 13:40 [01;34mrc3.d[0m
+drwxr-xr-x  2 root root   4,0K ene 26 13:40 [01;34mrc4.d[0m
+drwxr-xr-x  2 root root   4,0K ene 26 13:40 [01;34mrc5.d[0m
+drwxr-xr-x  2 root root   4,0K ene 26 13:40 [01;34mrc6.d[0m
+drwxr-xr-x  2 root root   4,0K ene 22 19:59 [01;34mrcS.d[0m
+lrwxrwxrwx  1 root root     39 ene 22 19:51 [01;36mresolv.conf[0m -> ../run/systemd/resolve/stub-resolv.conf
+lrwxrwxrwx  1 root root     13 ene 22 19:45 [01;36mrmt[0m -> [01;32m/usr/sbin/rmt[0m
+-rw-r--r--  1 root root    887 abr  1  2013 rpc
+-rw-r--r--  1 root root   1,4K feb 11  2020 rsyslog.conf
+drwxr-xr-x  2 root root   4,0K feb  9  2021 [01;34mrsyslog.d[0m
+-rw-r--r--  1 root root   5,1K mar 11  2020 rygel.conf
+drwxr-xr-x  3 root root   4,0K feb  9  2021 [01;34msane.d[0m
+drwxr-xr-x  4 root root   4,0K feb  9  2021 [01;34msecurity[0m
+drwxr-xr-x  2 root root   4,0K feb  9  2021 [01;34mselinux[0m
+-rw-r--r--  1 root root    11K nov  6  2019 sensors3.conf
+drwxr-xr-x  2 root root   4,0K feb  9  2021 [01;34msensors.d[0m
+-rw-r--r--  1 root root    15K feb 16  2020 services
+drwxr-xr-x  3 root root   4,0K feb  9  2021 [01;34msgml[0m
+-rw-r-----  1 root shadow 1,5K ene 26 13:39 shadow
+-rw-r-----  1 root shadow 1,5K ene 26 13:39 shadow-
+-rw-r--r--  1 root root    138 ene 26 12:51 shells
+drwxr-xr-x  2 root root   4,0K feb  9  2021 [01;34mskel[0m
+drwxr-xr-x  2 root root   4,0K feb  9  2021 [01;34msnmp[0m
+drwxr-xr-x  4 root root   4,0K feb  9  2021 [01;34mspeech-dispatcher[0m
+drwxr-xr-x  3 root root   4,0K feb 20 22:04 [01;34mssh[0m
+drwxr-xr-x  4 root root   4,0K ene 31 11:33 [01;34mssl[0m
+-rw-r--r--  1 root root     18 ene 22 19:53 subgid
+-rw-r--r--  1 root root      0 feb  9  2021 subgid-
+-rw-r--r--  1 root root     18 ene 22 19:53 subuid
+-rw-r--r--  1 root root      0 feb  9  2021 subuid-
+-r--r-----  1 root root    755 feb  3  2020 sudoers
+drwxr-xr-x  2 root root   4,0K ene 22 19:59 [01;34msudoers.d[0m
+-rw-r--r--  1 root root   2,3K feb 13  2020 sysctl.conf
+drwxr-xr-x  2 root root   4,0K ene 26 12:21 [01;34msysctl.d[0m
+drwxr-xr-x  5 root root   4,0K ene 26 12:21 [01;34msystemd[0m
+drwxr-xr-x  2 root root   4,0K feb  9  2021 [01;34mterminfo[0m
+drwxr-xr-x  2 root root   4,0K feb  9  2021 [01;34mthermald[0m
+drwxr-xr-x  2 root root   4,0K ene 31 11:17 [01;34mthunderbird[0m
+-rw-r--r--  1 root root     16 ene 26 12:40 timezone
+drwxr-xr-x  2 root root   4,0K abr 22  2020 [01;34mtmpfiles.d[0m
+drwxr-xr-x  2 root root   4,0K feb  9  2021 [01;34mubuntu-advantage[0m
+-rw-r--r--  1 root root   1,3K dic 14  2018 ucf.conf
+drwxr-xr-x  4 root root   4,0K ene 22 20:01 [01;34mudev[0m
+drwxr-xr-x  2 root root   4,0K feb  9  2021 [01;34mudisks2[0m
+drwxr-xr-x  3 root root   4,0K feb  9  2021 [01;34mufw[0m
+drwxr-xr-x  3 root root   4,0K feb  9  2021 [01;34mupdate-manager[0m
+drwxr-xr-x  2 root root   4,0K feb  9  2021 [01;34mupdate-motd.d[0m
+drwxr-xr-x  2 root root   4,0K ene 20  2021 [01;34mupdate-notifier[0m
+drwxr-xr-x  2 root root   4,0K feb  9  2021 [01;34mUPower[0m
+-rw-r--r--  1 root root   1,5K feb 10  2020 usb_modeswitch.conf
+drwxr-xr-x  2 root root   4,0K feb 24  2020 [01;34musb_modeswitch.d[0m
+drwxr-xr-x  2 root root   4,0K feb 10 19:45 [01;34mvim[0m
+drwxr-xr-x  4 root root   4,0K ene 22 20:02 [01;34mvmware-tools[0m
+lrwxrwxrwx  1 root root     23 ene 22 19:45 [01;36mvtrgb[0m -> /etc/alternatives/vtrgb
+drwxr-xr-x  5 root root   4,0K feb  9  2021 [01;34mvulkan[0m
+-rw-r--r--  1 root root   4,9K jul 24  2019 wgetrc
+drwxr-xr-x  2 root root   4,0K ene 31 11:25 [01;34mwpa_supplicant[0m
+drwxr-xr-x 11 root root   4,0K feb  9  2021 [01;34mX11[0m
+-rw-r--r--  1 root root    642 sep 24  2019 xattr.conf
+drwxr-xr-x  6 root root   4,0K feb  9  2021 [01;34mxdg[0m
+drwxr-xr-x  2 root root   4,0K feb  9  2021 [01;34mxml[0m
+drwxr-xr-x  2 root root   4,0K ene 26 12:51 [01;34mzsh[0m
+-rw-r--r--  1 root root    477 oct  7  2019 zsh_command_not_found
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                           ]2;user@user-VirtualBox:/etc]1;/etc[0m[27m[24m[J
+[38;5;135muser[39m at [38;5;166muser-VirtualBox[39m in [38;5;118m/etc[39m 
+$ [K[?1h=[?2004hccd ngonx[?1l>[?2004l
+]2;cd ngonx]1;cdcd: no such file or directory: ngonx
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                           ]2;user@user-VirtualBox:/etc]1;/etc[0m[27m[24m[J
+[38;5;135muser[39m at [38;5;166muser-VirtualBox[39m in [38;5;118m/etc[39m 
+$ [K[?1h=[?2004hccd ngins x[?1l>[?2004l
+]2;cd nginx]1;cd[1m[7m%[27m[1m[0m                                                                                                                                                                                                           ]2;user@user-VirtualBox:/etc/nginx]1;/etc/nginx[0m[27m[24m[J
+[38;5;135muser[39m at [38;5;166muser-VirtualBox[39m in [38;5;118m/etc/nginx[39m 
+$ [K[?1h=[?2004hlll[?1l>[?2004l
+]2;ls --color=tty -lh]1;lltotal 64K
+drwxr-xr-x 2 root root 4,0K may 25  2021 [0m[01;34mconf.d[0m
+-rw-r--r-- 1 root root 1,1K feb  4  2019 fastcgi.conf
+-rw-r--r-- 1 root root 1007 feb  4  2019 fastcgi_params
+-rw-r--r-- 1 root root 2,8K feb  4  2019 koi-utf
+-rw-r--r-- 1 root root 2,2K feb  4  2019 koi-win
+-rw-r--r-- 1 root root 3,9K feb  4  2019 mime.types
+drwxr-xr-x 2 root root 4,0K may 25  2021 [01;34mmodules-available[0m
+drwxr-
